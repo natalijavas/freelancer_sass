@@ -32,7 +32,7 @@ aside {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
-  background-image: url(img/bg.jpg);
+  background-image: linear gradient(rgba(48, 54, 51, 0.9), rgba(156, 122, 151, 0.9)), url(img/bg.jpg);
   background-position: center;
   background-size: cover;
   height: 100vh;

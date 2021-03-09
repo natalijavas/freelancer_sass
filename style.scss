@@ -33,7 +33,7 @@ aside
 ********/
 aside{
     flex:1;
-    background-image: url linear gradient(rgba($gray, .8), rgba($pink, .8))(img/bg.jpg);
+    background-image: linear gradient(rgba($gray, .9), rgba($pink, .9)), url(img/bg.jpg);
     background-position:center;
     background-size: cover;
     height:100vh;
